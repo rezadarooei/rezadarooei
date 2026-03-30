@@ -3,21 +3,20 @@
 ### 🎓 Postdoctoral Research Fellow @ University of Bern 🇨🇭 
 **AI Specialist | Software Engineer | Immersive Technologies (VR/AR)**
 
-I am a Postdoctoral Researcher at the University of Bern, supported by the Swiss Government Excellence Scholarship and the Hasler Foundation Grant. My work focuses on intelligent and immersive systems for healthcare.
+I am a Postdoctoral Research Fellow at the University of Bern, supported by the **Swiss Government Excellence Scholarship** and the **Hasler Foundation Grant**. My work focuses on developing intelligent and immersive systems that improve clinical training, patient experience, and healthcare decision-making.
 
 ---
 
 ### 🏛 Featured Projects & Research
 - 🧬 **Merge Conflict Resolution:** Developed a machine learning pipeline for predicting merge conflict resolution to streamline collaborative software engineering.
-- 🔬 **Pediatric VR Care:** Developing a novel VR-based blended learning solution to reduce distress in pediatric patients by enhancing physician-patient communication.
+- 🔬 **Pediatric VR Care:** Developing a novel VR-based blended learning solution to mitigate distress in pediatric patients by enhancing physician-patient communication.
 - 🧠 **Medical AI:** Specialized in OCT cyst segmentation using deep learning and sparse basis (PhD Research).
-- 🚀 **Entrepreneurship:** Co-founder & CEO of **Ortho Game**, developing serious games and VR applications for medical rehabilitation.
+- ⚖️ **Regulatory Affairs:** Extensive experience at the FDA overseeing regulatory processes for AI-based medical devices and diagnostic instruments.
+- 🚀 **Entrepreneurship:** Co-founder & CEO of **Ortho Game**, developing serious games and VR applications for medical rehabilitation (e.g., Frozen Shoulder therapy).
 
 ---
 
 ### 📊 GitHub Activity
-*(Note: If these do not appear, ensure "Show private contributions" is enabled in your GitHub Profile Settings)*
-
 ![Reza's Stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadarooei&layout=compact&theme=dark&hide_border=true)
 
