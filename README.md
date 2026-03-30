@@ -1,40 +1,44 @@
 # Hi there, I'm Reza Darooei! 👋
 
-### 🎓 Postdoctoral Research Fellow @ University of Bern 🇨🇭 
-**Software Engineering | Medical Image Analysis | Immersive Technologies (VR/AR)**
+### 🎓 Postdoctoral Research Fellow | Software Engineer | AI Specialist
+**University of Bern** 🇨🇭 | *Bridging AI, Medical Imaging & Immersive Tech*
 
-I am a Postdoctoral Research Fellow at the University of Bern, supported by the Swiss Government Excellence Scholarship and the Hasler Foundation Grant. My work focuses on developing intelligent and immersive systems that improve clinical training, patient experience, and healthcare decision-making.
-
----
-
-### 🏛 Research & Focus
-- 🔬 **Current Project:** Developing a novel VR-based blended learning solution to mitigate distress in pediatric patients by enhancing physician-patient communication.
-- 🧠 **PhD Research:** Specialized in OCT cyst segmentation using deep learning and sparse basis at the Medical University of Isfahan.
-- 🚀 **Entrepreneurship:** Co-founder & CEO of **Ortho Game**, focusing on serious games and virtual reality applications for rehabilitation and medical training.
+I am a Postdoctoral Research Fellow at the University of Bern, supported by the **Swiss Government Excellence Scholarship** and the **Hasler Foundation Grant**. My work focuses on intelligent systems that improve clinical training and patient care.
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadarooei&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+### 🔬 Research & Professional Impact
+* 🏥 **Pediatric Care:** Developing VR-based blended learning solutions to reduce distress in pediatric patients by improving physician-patient communication.
+* 🧠 **Deep Learning:** Specialized in medical image analysis, particularly OCT cyst segmentation and asthma diagnosis using sparse representation.
+* ⚖️ **Regulatory Expertise:** Former Regulatory Affairs Specialist at the FDA, overseeing compliance for AI-based medical devices and diagnostic instruments.
+* 💼 **Entrepreneurship:** Co-founder & CEO of **Ortho Game**, where I led the development of serious games for rehabilitation (e.g., Frozen Shoulder therapy).
+* 🛠 **Software Engineering:** Developed ML pipelines for predicting merge conflict resolution and supervised academic research teams.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+### 🛠 Full Tech Stack & Expertise
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & Data Science** | Python, Deep Learning, Hugging Face, LLM, Azure AI, GenAI, MATLAB |
-| **Immersive Tech** | Unreal Engine, Unity, Virtual Reality, Daz3D, iClone, Maya |
-| **Development** | C++, C#, JavaScript, HTML, CSS, Android Studio, Git |
+| **AI & Data Science** | Python, Deep Learning, Hugging Face, LLMs, GenAI, Prompt Engineering, Classic ML, Azure AI |
+| **Medical & Math** | MATLAB, Medical Image Analysis, OCT/MRI Processing, Compressed Sensing, Mavis Lab |
+| **Immersive Tech** | Unreal Engine, Unity, Virtual Reality (VR), Daz3D, iClone, Maya, Camtasia |
+| **Software Dev** | C++, C#, JavaScript, HTML, CSS, Android Studio, AutoCAD, Source Tree, Git |
 
 ---
 
-### 🏆 Recognitions
-- 🏅 **Swiss Government Excellence Scholarship** (2024-2025)
-- 💰 **Hasler Foundation Grant** (50K)
+### 📊 GitHub Dashboard
+*(If these images are broken, please ensure "Private Contributions" are enabled in your GitHub Profile Settings)*
+
+![Reza's Stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadarooei&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🏆 Recognitions & Service
+* 🏅 **Swiss Government Excellence Scholarship** (2024-2025)
+* 💰 **Hasler Foundation Grant** (50K CHF)
+* 📝 **Journal Reviewer:** *Scientific Reports*, *Artificial Intelligence Review*, *BMC Medical Imaging*.
 
 ---
 
