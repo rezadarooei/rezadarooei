@@ -69,10 +69,9 @@ Co-founder & CEO — developing **serious games and VR solutions** for rehabilit
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadarooei&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&count_private=true&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rezadarooei&hide_border=true" height="150"/>
 </p>
-
 ---
 
 ## ✨ Motto
