@@ -67,11 +67,13 @@ Co-founder & CEO — developing **serious games and VR solutions** for rehabilit
 - 💻 [GitHub](https://github.com/rezadarooei)
 
 ---
-
 ## 📊 GitHub Stats
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadarooei&hide_border=true" />
+</p>
 
 ---
 
 ## ✨ Motto
-> Building intelligent systems that make healthcare more human.
+> _Building intelligent systems that make healthcare more human._
