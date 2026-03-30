@@ -71,6 +71,3 @@ Co-founder & CEO — developing **serious games and VR solutions** for rehabilit
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rezadarooei&hide_border=true"/>
 </p>
----
-## ✨ Motto
-> _Building intelligent systems that make healthcare more human._
