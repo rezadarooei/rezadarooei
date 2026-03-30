@@ -1,5 +1,9 @@
 ## Hi there 👋
+![Your Stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadarooei&layout=compact&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rezadarooei)](https://github.com/ryo-ma/github-profile-trophy)
 
+# My Latest Posts
 <!--
 **rezadarooei/rezadarooei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
