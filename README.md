@@ -1,44 +1,77 @@
-# Hi there, I'm Reza Darooei! 👋
+# 👋 Hi there, I'm Reza Darooei
 
-### 🎓 Postdoctoral Research Fellow @ University of Bern 🇨🇭 
-**AI Specialist | Software Engineer | Immersive Technologies (VR/AR)**
-
-I am a Postdoctoral Research Fellow at the University of Bern, supported by the **Swiss Government Excellence Scholarship** and the **Hasler Foundation Grant**. My work focuses on developing intelligent and immersive systems that improve clinical training, patient experience, and healthcare decision-making.
+### 🎓 Postdoctoral Research Fellow @ University of Bern  
+**AI Researcher | Software Engineer | Immersive Technologies (VR/AR) | Digital Health**
 
 ---
 
-### 🏛 Featured Projects & Research
-- 🧬 **Merge Conflict Resolution:** Developed a machine learning pipeline for predicting merge conflict resolution to streamline collaborative software engineering.
-- 🔬 **Pediatric VR Care:** Developing a novel VR-based blended learning solution to mitigate distress in pediatric patients by enhancing physician-patient communication.
-- 🧠 **Medical AI:** Specialized in OCT cyst segmentation using deep learning and sparse basis (PhD Research).
-- ⚖️ **Regulatory Affairs:** Extensive experience at the FDA overseeing regulatory processes for AI-based medical devices and diagnostic instruments.
-- 🚀 **Entrepreneurship:** Co-founder & CEO of **Ortho Game**, developing serious games and VR applications for medical rehabilitation (e.g., Frozen Shoulder therapy).
+🚀 I am a Postdoctoral Research Fellow at the **University of Bern**, working at the intersection of **Artificial Intelligence, Healthcare, and Immersive Technologies**.
+
+My research focuses on building **intelligent, human-centered systems** to enhance **clinical training, patient experience, and medical decision-making**.
+
+💡 With a PhD in Biomedical Engineering and experience in **regulatory affairs (FDA)** and **health-tech entrepreneurship**, I bridge the gap between **research, real-world applications, and product innovation**.
 
 ---
 
-### 📊 GitHub Activity
-![Reza's Stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadarooei&layout=compact&theme=dark&hide_border=true)
+## 🔬 Research Interests
+- AI for Healthcare & Medical Imaging  
+- Virtual & Augmented Reality for Clinical Training  
+- Human-AI Interaction  
+- Neuroscience & EEG Signal Processing  
+- Serious Games for Rehabilitation  
 
 ---
 
-### 🛠 Tech Stack & Expertise
+## 🏛 Featured Projects
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Generative AI** | LLM, GenAI, Prompt Engineering, Hugging Face, Azure AI |
-| **AI & Data Science** | Python, Deep Learning, Classic ML, MATLAB, Medical Image Analysis |
-| **Immersive Tech** | Unreal Engine, Unity, Virtual Reality (VR), Daz3D, iClone, Maya |
-| **Development** | C++, C#, JavaScript, HTML, CSS, Android Studio, Git, Source Tree |
+### 🧩 Merge Conflict Resolution
+Machine learning pipeline to **predict and assist merge conflict resolution**, improving collaborative software development.
+
+### 🧒 Pediatric VR Care
+VR-based blended learning system to **reduce distress in pediatric patients** and improve physician–patient communication.
+
+### 🧠 Medical AI (PhD Research)
+Deep learning models for **OCT cyst segmentation** using sparse representations and advanced architectures.
+
+### ⚖️ Regulatory Affairs (FDA)
+Experience in **AI-based medical device regulation**, ensuring compliance and accelerating product approval.
+
+### 🎮 Ortho Game (Startup)
+Co-founder & CEO — developing **serious games and VR solutions** for rehabilitation (e.g., Frozen Shoulder therapy).
 
 ---
 
-### 🏆 Recognitions & Service
-- 🏅 **Swiss Government Excellence Scholarship** (2024-2025)
-- 💰 **Hasler Foundation Grant** (50K CHF)
-- 📝 **Journal Reviewer:** Scientific Reports, AI Review, BMC Medical Imaging.
+## 🛠 Tech Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **AI & ML** | Python, Deep Learning, Machine Learning, MATLAB |
+| **Generative AI** | LLMs, Hugging Face, Azure AI |
+| **Immersive Tech** | Unity, Unreal Engine, VR/AR, Daz3D, iClone, Maya |
+| **Development** | C++, C#, JavaScript, HTML, CSS, Android Studio |
+| **Tools** | Git, SourceTree |
 
 ---
 
-### 🔗 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/reza-darooei/) | [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID) | [Personal Website](https://rezadarooei.github.io/)
+## 🏆 Awards & Recognition
+- 🥇 Swiss Government Excellence Scholarship (2024–2025)  
+- 💰 Hasler Foundation Grant (50K CHF)  
+- 📝 Reviewer: *Scientific Reports, AI Review, BMC Medical Imaging*  
+
+---
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/reza-darooei/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=PK2kDN8AAAAJ)
+- 🌐 [Personal Website](https://rezadarooei.github.io/)
+- 💻 [GitHub](https://github.com/rezadarooei)
+
+---
+
+## 📊 GitHub Stats
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezadarooei&show_icons=true&theme=default)
+
+---
+
+## ✨ Motto
+> Building intelligent systems that make healthcare more human.
